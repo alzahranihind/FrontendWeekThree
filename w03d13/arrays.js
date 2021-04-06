@@ -14,3 +14,12 @@ document.getElementById("demo").innerHTML = myArray[0]; // to put the value in i
 myArray[5]=66; // add 66 to the end of the array
 //array methods 
 var fruits=["Banana", "Orange", "Lemon", "Apple", "Mango"]; //array of strings 
+//for loops 
+for (i = 0; i < myArray.length; i++) {
+    //loop body 
+  }
+//print all the elements of an array 
+for (i = 0; i < myArray.length; i++) {
+   console.log(myArray[i]);
+  }
+
